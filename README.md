@@ -1,2 +1,1 @@
-
-([acessar] http:google.com)
+[acessar]('www.google.com')
